@@ -30,4 +30,5 @@
 * [java 代码规范](java_dai_ma_gui_fan.md)
 * [事物和缓存的思考](事物和缓存的思考.md)
 * [Interesting\_Code](interestingcode.md)
+* [java面试需要回顾的知识点](java面试需要回顾的知识点.md)
 
