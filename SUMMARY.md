@@ -17,6 +17,7 @@
 * [编程思想](编程思想.md)
     * [领悟和问题](ling_wu_he_wen_ti.md)
     * [Integer.toBinaryString](1.md)
+    * [移位符练习](shiftOperators.md)
     * [Integer.numberOfLeadingZeros](integernumberofleadingzeros.md)
     * [替换 Integer.toBinaryString 的方法](替换-integertobinarystring-的方法.md)
     * [递归方法解决问题\(need to do\)](递归方法解决问题need-to-do.md)
