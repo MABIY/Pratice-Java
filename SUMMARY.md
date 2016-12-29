@@ -31,5 +31,5 @@
 * [事物和缓存的思考](事物和缓存的思考.md)
 * [Interesting\_Code](interestingcode.md)
 * [java面试需要回顾的知识点](java面试需要回顾的知识点.md)
-    * 面向对象三大特征
+    * [面向对象三大特征](面向对象三大特征.md)
 
