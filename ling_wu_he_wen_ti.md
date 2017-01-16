@@ -69,5 +69,11 @@ public class Test {
 
 ```
   迎生问题: placeholder 工具类解析的/src/main/resources 里的propertis 属性文件,看其classpath包含/src/main/resources
+  
+  - 编译检查
+    编译时检查没有指定LinkedList的泛型 赋值是对对象的赋值,相对与容器来说 应该不会对容器里面的属性做类型检查,所以可以成功
+  ```java
+   private LinkedList<Integer> eventList = new LinkedList(Arrays.asList("1","3"));
+  ```
 
 
