@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-    * java 编程思想
 * [First Chapter](chapter1.md)
     * [什么是pojos](shi_yaoshi_pojos.md)
     * [Writing JavaBeans Components](writing_javabeans_components.md)
