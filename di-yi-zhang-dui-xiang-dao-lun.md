@@ -1,4 +1,4 @@
-##                                                   对象导论
+## 对象导论
 
 ### 1.6 继承
 
@@ -28,16 +28,9 @@ public class ExtendsPractice extends Father{
         System.out.println(extendsPractice.age);
     }
 }
-
 ```
 
-
-
-
-
 #### 领悟:
-
-
 
 
 
