@@ -4,7 +4,7 @@
 
 #### 问题:
 
-1. final 修饰的 class 无法集成. 对象里的final 元素 在子类中可以引用到吗?
+1. final 修饰的 class 无法集成. 对象里的final 元素 在子类中可以引用到吗?  
 
 ```java
 package 思考;
