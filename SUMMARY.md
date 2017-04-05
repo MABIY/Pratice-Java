@@ -16,6 +16,7 @@
   * [java Serializable](java-为什么要序列.md)
 * [编程思想](编程思想.md)
   * [领悟和问题](ling_wu_he_wen_ti.md)
+  * [第一章 对象导论](di-yi-zhang-dui-xiang-dao-lun.md)
   * [Integer.toBinaryString](1.md)
   * [移位符练习](shiftOperators.md)
   * [Integer.numberOfLeadingZeros](integernumberofleadingzeros.md)
