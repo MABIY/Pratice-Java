@@ -32,20 +32,12 @@ public class ExtendsPractice extends Father{
 
 #### 领悟:
 
- [CGI ](https://en.wikipedia.org/wiki/Common_Gateway_Interface): 
+[CGI ](https://en.wikipedia.org/wiki/Common_Gateway_Interface):
 
 ```shel
 In computing, Common Gateway Interface (CGI) offers a standard protocol for web servers to execute programs that execute like Console applications (also called Command-line interface programs) running on a server that generates web pages dynamically. Such programs are known as CGI scripts or simply as CGIs. 
 The specifics of how the script is executed by the server are determined by the server. In the common case, a CGI script executes at the time a request is made and generates HTML.
 ```
-
-          
-
-            
-
-
-
-
 
 
 
