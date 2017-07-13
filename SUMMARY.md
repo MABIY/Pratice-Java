@@ -39,4 +39,5 @@
 * [数据交换](shu-ju-jiao-huan.md)
   * [JSON](shu-ju-jiao-huan/json.md)
 * [问题](wen-ti.md)
+  * [为什么匿名内部类和局部内部类只能访问final变量](wen-ti/wei-shi-yao-ni-ming-nei-bu-lei-he-ju-bu-nei-bu-lei-zhi-neng-fang-wen-final-bian-liang.md)
 
